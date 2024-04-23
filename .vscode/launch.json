@@ -1,0 +1,213 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Ej103",
+      "request": "launch",
+      "mainClass": "Listados.Listado5.Ej103",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej43",
+      "request": "launch",
+      "mainClass": "Listados.Listado5.Ej43",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej43",
+      "request": "launch",
+      "mainClass": "Ej43",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej42",
+      "request": "launch",
+      "mainClass": "Listados.Listado4.Ej42",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej41",
+      "request": "launch",
+      "mainClass": "Ej41",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej41",
+      "request": "launch",
+      "mainClass": "Listados.Listado4.Ej41",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej40",
+      "request": "launch",
+      "mainClass": "Listados.Listado3.Ej40",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej40",
+      "request": "launch",
+      "mainClass": "Listados.Listado4.Ej40",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej39",
+      "request": "launch",
+      "mainClass": "Listados.Listado4.Ej39",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej38",
+      "request": "launch",
+      "mainClass": "Listados.Listado4.Ej38",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej25",
+      "request": "launch",
+      "mainClass": "Listados.Listado3.Ej25",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej28",
+      "request": "launch",
+      "mainClass": "Listados.Listado3.Ej28",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej27",
+      "request": "launch",
+      "mainClass": "Listados.Listado3.Ej27",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej26",
+      "request": "launch",
+      "mainClass": "Listados.Listado3.Ej26",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej22",
+      "request": "launch",
+      "mainClass": "Listados.Listado3.Ej22",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej24",
+      "request": "launch",
+      "mainClass": "Listados.Listado3.Ej24",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej21",
+      "request": "launch",
+      "mainClass": "Listados.Listado3.Ej21",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej23",
+      "request": "launch",
+      "mainClass": "Listados.Listado3.Ej23",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej14",
+      "request": "launch",
+      "mainClass": "Listados.Listado2.Ej14",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej13",
+      "request": "launch",
+      "mainClass": "Listados.Listado2.Ej13",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej12",
+      "request": "launch",
+      "mainClass": "Listados.Listado2.Ej12",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej11",
+      "request": "launch",
+      "mainClass": "Listados.Listado2.Ej11",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej10",
+      "request": "launch",
+      "mainClass": "Listados.Listado2.Ej10",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej9",
+      "request": "launch",
+      "mainClass": "Listados.Listado2.Ej9",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej8",
+      "request": "launch",
+      "mainClass": "Listados.Listado2.Ej8",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "Ej7",
+      "request": "launch",
+      "mainClass": "Listados.Listado2.Ej7",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "type": "java",
+      "name": "introdatos",
+      "request": "launch",
+      "mainClass": "Listados.Listado1.introdatos",
+      "projectName": "Des Obj_4a78aaa0"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/pablo/INF UDEC/Des Obj",
+      "program": "c:/Users/pablo/INF UDEC/Des Obj/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
